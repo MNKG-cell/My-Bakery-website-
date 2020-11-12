@@ -1,0 +1,27 @@
+body {
+    font-size: 10pt;
+}
+
+ h1{color:#77851FF7;
+     text-transform:capitalize;
+     text-align:center; 
+ } 
+ h2{font-size:10pt;}
+ul{font-weight:lighter;}
+table{table-layout:fixed;
+    border-collapse:collapse;
+    padding:5px;
+    font-weight:lighter;
+    font-size:10pt;
+}
+
+th,td{text-align:center;
+    padding:5px;
+}
+table,th, td{border:1px solid black;}
+thead, th:nth-child(1){width:40%;}
+thead,th:nth-child(2){width:50%;}
+thead,th:nth-child(3){width:50%;}
+thead,th:nth-child(4){width:50%;}
+p5{font-weight:lighter;}
+p6{font-weight:lighter;}
